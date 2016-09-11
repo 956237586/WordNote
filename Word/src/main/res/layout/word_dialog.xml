@@ -15,7 +15,7 @@
             android:id="@+id/text_dialog_word"
             android:layout_width="match_parent"
             android:layout_weight="1"
-            android:text="banana"/>
+            android:text="apple"/>
     </TableRow>
 
     <TableRow>
@@ -29,7 +29,7 @@
             android:id="@+id/text_dialog_meaning"
             android:layout_width="match_parent"
             android:layout_weight="1"
-            android:text="香蕉"/>
+            android:text=""/>
     </TableRow>
 
     <TableRow>
@@ -43,6 +43,6 @@
             android:id="@+id/text_dialog_sample"
             android:layout_width="match_parent"
             android:layout_weight="1"
-            android:text="this is a banana"/>
+            android:text=""/>
     </TableRow>
 </TableLayout>
